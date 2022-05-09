@@ -61,7 +61,7 @@ li a{
 }
 
 .sez2{
-    background-color: rgb(143, 143, 148);
+    background-color: rgb(173, 173, 189);
     width: 2000px;
     height: 560px;
     margin: 0 auto;
@@ -94,3 +94,18 @@ li a{
     flex-grow: 4;
 }
 
+.sez4{
+    margin: 0 auto;
+    background-color: grey;
+    height: 800px;
+    width: 2000px;
+    padding-top: 56px;
+}
+
+.sezione3{
+    background-color: rgb(100, 126, 29);
+    margin: 0 auto;
+    width: 1050px;
+    height: 700px;
+    
+}
