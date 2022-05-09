@@ -109,7 +109,7 @@ li a{
     height: 700px;   
 }
 
-.finale{
+.finale-main{
     background-color: black;
     height: 400px;
     width: 2000px;
@@ -139,4 +139,26 @@ li a{
     flex-grow: 2;
     border: dotted 1px #fff;
 }
+
+.divisore{
+    background-color: #fff;
+    height: 2px;
+}
+ 
+.fine{
+    margin: 0 auto;
+    height: 115px;
+    width: 2000px;
+    background-color: black;
+    padding-top: 48px;
+}
+
+.ultima-class{
+    background-color: beige;
+    width: 1050px;
+    height: 65px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
 }
