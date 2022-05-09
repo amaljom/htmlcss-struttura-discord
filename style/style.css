@@ -16,7 +16,7 @@ header{
 .inizio{
     background-color: yellowgreen;
     height: 45px;
-    width: 1500px;
+    width: 1400px;
     margin: 0 auto;
     display: flex; 
     justify-content: center;
@@ -106,6 +106,37 @@ li a{
     background-color: rgb(100, 126, 29);
     margin: 0 auto;
     width: 1050px;
-    height: 700px;
-    
+    height: 700px;   
+}
+
+.finale{
+    background-color: black;
+    height: 400px;
+    width: 2000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.sez5{
+    display: flex;
+    justify-content: center;
+}
+
+.lato-sinistro{
+    background-color: #fff;
+    height: 350px;
+    width: 330px;
+}
+.lato-destro{
+    width: 720px;
+    display: flex;
+}
+
+.uno{
+    background-color: bisque;
+    height: 350px;
+    width: 20px;
+    flex-grow: 2;
+    border: dotted 1px #fff;
+}
 }
